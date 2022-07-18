@@ -1,0 +1,4 @@
+1000 500 Négatif 600
+2000 300 Positif 0
+3000 950 Positif 1000
+4000 800 Négatif 800

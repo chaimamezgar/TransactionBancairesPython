@@ -1,0 +1,7 @@
+Refompte Transaction Valeur Résultat Etat
+1000 retrait 200 échec négatif
+2000 retrait 300 succès positif
+1000 retrait 100 succès négatif
+2000 ajout 450 succès positif
+3000 ajout 1000 succès positif
+4000 ajout 700 succès négatif
